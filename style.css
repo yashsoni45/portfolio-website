@@ -373,6 +373,7 @@ a{
 }
 .project-content-right {
   right: 10%;
+  margin: auto;
 }
 .project-card:hover .project-content {
   scale: 1.1;
@@ -424,7 +425,7 @@ a{
   top: -45px;
 }
 .project-number-right {
-  left: -40px;
+  left: -30px;
   top: -45px;
 }
 .project-card:hover .project-number {
