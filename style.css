@@ -372,8 +372,10 @@ a{
   left: 10%;
 }
 .project-content-right {
+  display:flex;
+  justify-content: flex-end;
   right: 10%;
-  margin: auto;
+  
 }
 .project-card:hover .project-content {
   scale: 1.1;
